@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="NetSupport-Core/NetSupport-Core.csproj" />
+  <Project Path="NetSupport-Infrastructure/NetSupport-Infrastructure.csproj" />
+  <Project Path="NetSupport-Project/NetSupport-Project.csproj" />
+</Solution>

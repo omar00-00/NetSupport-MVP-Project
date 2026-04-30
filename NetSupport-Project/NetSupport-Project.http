@@ -1,0 +1,6 @@
+@NetSupport_Project_HostAddress = http://localhost:5016
+
+GET {{NetSupport_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
